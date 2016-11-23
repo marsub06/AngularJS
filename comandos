@@ -1,0 +1,2 @@
+git clone ht // para bajar archivos de git 
+ browser-sync start --server  // ubicarse en la carpeta donde esta el index (git bash) y ejecutar esa linea para instalar un servidor
